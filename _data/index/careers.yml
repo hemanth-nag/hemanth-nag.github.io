@@ -5,16 +5,44 @@
     detail: Akamai Technologies 
     i18n: company_a
   desc:
-    detail: Intern
+    detail: Site Reliability Engineer
     i18n: company_a_desc
   date:
-    detail: Jan. 2022 - Present
+    detail: Jul. 2023 - Present
+    i18n: company_a_date
+  job:
+    detail: Full Time
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Akamai Technologies 
+    i18n: company_a
+  desc:
+    detail: Software Development Engineer in Test
+    i18n: company_a_desc
+  date:
+    detail: Jul. 2022 - Jun. 2023
+    i18n: company_a_date
+  job:
+    detail: Full Time
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Akamai Technologies 
+    i18n: company_a
+  desc:
+    detail: Spring Intern
+    i18n: company_a_desc
+  date:
+    detail: Jan. 2022 - Jun. 2022
     i18n: company_a_date
   job:
     detail: Internship
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
 
 - name:
     detail: Solar Industries India ltd  
