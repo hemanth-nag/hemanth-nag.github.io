@@ -4,7 +4,7 @@
 title: Hemanth Nag
 description: Hemanth Nag's personal website and resume 
 keywords: computer science, computer vision, deep learning, bengaluru, engineering
-url: https://iithehangmanii.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
+url: https://hemanth-nag.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
 img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
@@ -13,7 +13,7 @@ author:  # change following line to your infomation.
   first_name: Hemanth  # Be used at index page about me section.
   last_name: Nag  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar1.jpg  # upload your avatar at directory and edit it.
-  github_username: iithehangmanii  # Leave blank if you don't have now
+  github_username: hemanth-nag  # Leave blank if you don't have now
   linkedin_id: hemanth-nag-123abc  # Leave blank if you don't have now
   facebook_username:  # Leave blank if you don't have now
   twitter_username: # Leave blank if you don't have now
@@ -26,7 +26,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Final year B.Tech student from PES University, Bengaluru.  # Describe yourself.
+  desc: Engineering excellence for a better tomorrow.  # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
