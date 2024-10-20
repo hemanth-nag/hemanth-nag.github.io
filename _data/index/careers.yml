@@ -5,16 +5,30 @@
     detail: Akamai Technologies 
     i18n: company_a
   desc:
-    detail: Site Reliability Engineer
+    detail: Site Reliability Engineer 2
     i18n: company_a_desc
   date:
-    detail: Jul. 2023 - Present
+    detail: Apr. 2024 - Present
     i18n: company_a_date
   job:
     detail: Full Time
     i18n: company_a_job
   icon: fa-plus-square
   present: true
+
+- name:
+    detail: Akamai Technologies 
+    i18n: company_a
+  desc:
+    detail: Site Reliability Engineer
+    i18n: company_a_desc
+  date:
+    detail: Jul. 2023 - Mar. 2024
+    i18n: company_a_date
+  job:
+    detail: Full Time
+    i18n: company_a_job
+  icon: fa-plus-square
 
 - name:
     detail: Akamai Technologies 
